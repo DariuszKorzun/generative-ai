@@ -1,3 +1,10 @@
+### Documentation
+
+- [Speech and Language Processing](https://web.stanford.edu/~jurafsky/slp3/)
+
+### Code & Training
+- [AI Makerspace](https://github.com/AI-Maker-Space)
+
 ### Web & Desktop
 
 - [Lollms-Webui](https://github.com/ParisNeo/lollms-webui)
